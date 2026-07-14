@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
+
+# Cache
+.cache/
+cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Generated playlists
+*.m3u8
+
+# Ignore project files
+combined.bat
+create_multiple_m3u8.py
+getlinks.py
+m3u8_splitter.py
+make_m3u8_jellyfin.py
+upload_github.py
+video_links.txt
