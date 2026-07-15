@@ -19,7 +19,7 @@ env/
 # Cache
 .cache/
 cache/
-
+angYNGR%20%E2%80%93%20Ellie%20Nova%20%E2%80%93%20Ellie%20Nova%20Has%20A%20Masters%20In%20Getting%20Fuckedp.mp4/
 # IDE
 .vscode/
 .idea/
@@ -30,6 +30,7 @@ Thumbs.db
 
 # Generated playlists
 *.m3u8
+*.exe
 
 # Ignore project files
 combined.bat
