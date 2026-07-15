@@ -32,8 +32,6 @@ stuff/
 Thumbs.db
 .DS_Store
 
-# Generated playlists
-*.m3u8
 *.exe
 
 # Ignore project files
