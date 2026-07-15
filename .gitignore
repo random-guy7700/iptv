@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
+*.py
 
 # Virtual environments
 .venv/
@@ -19,6 +20,8 @@ env/
 # Cache
 .cache/
 cache/
+split_cache/
+test/
 angYNGR%20%E2%80%93%20Ellie%20Nova%20%E2%80%93%20Ellie%20Nova%20Has%20A%20Masters%20In%20Getting%20Fuckedp.mp4/
 # IDE
 .vscode/
