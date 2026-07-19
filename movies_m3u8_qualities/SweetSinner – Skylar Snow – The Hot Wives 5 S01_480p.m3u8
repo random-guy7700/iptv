@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-PLAYLIST-TYPE:VOD
+## Written by https://t.me/inside83 2021 - 2024 ##
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:1606
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:4.337667,
+https://pervl1.xspcdn01.sa.com/cdn/down/3db54f5573cd617a0112d35dd1e6b1ef/480/4800.html
+#EXTINF:1605.770833,
+https://pervl1.xspcdn02.sa.com/cdn/down/3db54f5573cd617a0112d35dd1e6b1ef/480/4801.html
+#EXTINF:10.427089,
+https://pervl1.xspcdn03.sa.com/cdn/down/3db54f5573cd617a0112d35dd1e6b1ef/480/4802.html
+#EXTINF:1.501600,
+https://pervl1.xspcdn04.sa.com/cdn/down/3db54f5573cd617a0112d35dd1e6b1ef/480/4803.html
+#EXT-X-ENDLIST
