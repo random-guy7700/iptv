@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+## Written by https://t.me/inside83 2021 - 2025 ##
+#EXT-X-STREAM-INF:BANDWIDTH=753098,RESOLUTION=854x480,CLOSED-CAPTIONS=NONE
+https://raw.githubusercontent.com/random-guy7700/iptv/refs/heads/main/movies_m3u8_qualities/Deeper%20%E2%80%93%20Angela%20White%2C%20Lena%20Paul%2C%20Alina%20Lopez%20And%20Autumn%20Falls%20%E2%80%93%20Bargaining_480p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1502258,RESOLUTION=1280x720,CLOSED-CAPTIONS=NONE
+https://raw.githubusercontent.com/random-guy7700/iptv/refs/heads/main/movies_m3u8_qualities/Deeper%20%E2%80%93%20Angela%20White%2C%20Lena%20Paul%2C%20Alina%20Lopez%20And%20Autumn%20Falls%20%E2%80%93%20Bargaining_720p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3333342,RESOLUTION=1920x1080,CLOSED-CAPTIONS=NONE
+https://raw.githubusercontent.com/random-guy7700/iptv/refs/heads/main/movies_m3u8_qualities/Deeper%20%E2%80%93%20Angela%20White%2C%20Lena%20Paul%2C%20Alina%20Lopez%20And%20Autumn%20Falls%20%E2%80%93%20Bargaining_1080p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=12350884,RESOLUTION=3840x2160,CLOSED-CAPTIONS=NONE
+https://raw.githubusercontent.com/random-guy7700/iptv/refs/heads/main/movies_m3u8_qualities/Deeper%20%E2%80%93%20Angela%20White%2C%20Lena%20Paul%2C%20Alina%20Lopez%20And%20Autumn%20Falls%20%E2%80%93%20Bargaining_2160p.m3u8

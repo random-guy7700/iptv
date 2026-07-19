@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+## Written by https://t.me/inside83 2021 - 2025 ##
+#EXT-X-STREAM-INF:BANDWIDTH=660499,RESOLUTION=854x480,CLOSED-CAPTIONS=NONE
+https://raw.githubusercontent.com/random-guy7700/iptv/refs/heads/main/movies_m3u8_qualities/GirlsWay%20%E2%80%93%20Charlotte%20Stokely%2C%20Angela%20White%20And%20Lily%20Rader%20%E2%80%93%20Fashion%20Model%203%20What%20Have%20You%20Done%20For%20Me%20Lately_480p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1304615,RESOLUTION=1280x720,CLOSED-CAPTIONS=NONE
+https://raw.githubusercontent.com/random-guy7700/iptv/refs/heads/main/movies_m3u8_qualities/GirlsWay%20%E2%80%93%20Charlotte%20Stokely%2C%20Angela%20White%20And%20Lily%20Rader%20%E2%80%93%20Fashion%20Model%203%20What%20Have%20You%20Done%20For%20Me%20Lately_720p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2954419,RESOLUTION=1920x1080,CLOSED-CAPTIONS=NONE
+https://raw.githubusercontent.com/random-guy7700/iptv/refs/heads/main/movies_m3u8_qualities/GirlsWay%20%E2%80%93%20Charlotte%20Stokely%2C%20Angela%20White%20And%20Lily%20Rader%20%E2%80%93%20Fashion%20Model%203%20What%20Have%20You%20Done%20For%20Me%20Lately_1080p.m3u8
