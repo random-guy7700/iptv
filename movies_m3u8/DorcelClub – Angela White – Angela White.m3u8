@@ -1,12 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-PLAYLIST-TYPE:VOD
-#EXT-X-TARGETDURATION:9
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:8.40,
-https://pervl7.xspcdn02.sa.com/cdn/down/d296c101daa88a51f6ca8cfc1ac79b50/1080/10801.html
-#EXTINF:8.40,
-https://pervl7.xspcdn03.sa.com/cdn/down/d296c101daa88a51f6ca8cfc1ac79b50/1080/10802.html
-#EXTINF:8.40,
-https://pervl7.xspcdn04.sa.com/cdn/down/d296c101daa88a51f6ca8cfc1ac79b50/1080/10803.html
-#EXT-X-ENDLIST
+## Written by https://t.me/inside83 2021 - 2025 ##
+#EXT-X-STREAM-INF:BANDWIDTH=367724,RESOLUTION=854x480,CLOSED-CAPTIONS=NONE
+https://raw.githubusercontent.com/random-guy7700/iptv/refs/heads/main/movies_m3u8/DorcelClub%20%E2%80%93%20Angela%20White%20%E2%80%93%20Angela%20White_480p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=739622,RESOLUTION=1280x720,CLOSED-CAPTIONS=NONE
+https://raw.githubusercontent.com/random-guy7700/iptv/refs/heads/main/movies_m3u8/DorcelClub%20%E2%80%93%20Angela%20White%20%E2%80%93%20Angela%20White_720p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1629996,RESOLUTION=1920x1080,CLOSED-CAPTIONS=NONE
+https://raw.githubusercontent.com/random-guy7700/iptv/refs/heads/main/movies_m3u8/DorcelClub%20%E2%80%93%20Angela%20White%20%E2%80%93%20Angela%20White_1080p.m3u8
