@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+## Written by https://t.me/inside83 2021 - 2025 ##
+#EXT-X-STREAM-INF:BANDWIDTH=530584,RESOLUTION=854x480,CLOSED-CAPTIONS=NONE
+https://raw.githubusercontent.com/random-guy7700/iptv/refs/heads/main/movies_m3u8_qualities/MissaX%20%E2%80%93%20Penny%20Barber%20%E2%80%93%20Behind%20Dad%E2%80%99s%20Back_480p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1080572,RESOLUTION=1280x720,CLOSED-CAPTIONS=NONE
+https://raw.githubusercontent.com/random-guy7700/iptv/refs/heads/main/movies_m3u8_qualities/MissaX%20%E2%80%93%20Penny%20Barber%20%E2%80%93%20Behind%20Dad%E2%80%99s%20Back_720p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2546341,RESOLUTION=1920x1080,CLOSED-CAPTIONS=NONE
+https://raw.githubusercontent.com/random-guy7700/iptv/refs/heads/main/movies_m3u8_qualities/MissaX%20%E2%80%93%20Penny%20Barber%20%E2%80%93%20Behind%20Dad%E2%80%99s%20Back_1080p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=10767477,RESOLUTION=3840x2160,CLOSED-CAPTIONS=NONE
+https://raw.githubusercontent.com/random-guy7700/iptv/refs/heads/main/movies_m3u8_qualities/MissaX%20%E2%80%93%20Penny%20Barber%20%E2%80%93%20Behind%20Dad%E2%80%99s%20Back_2160p.m3u8

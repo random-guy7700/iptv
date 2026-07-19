@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+## Written by https://t.me/inside83 2021 - 2024 ##
+#EXT-X-STREAM-INF:BANDWIDTH=887764,RESOLUTION=854x480,CLOSED-CAPTIONS=NONE
+https://raw.githubusercontent.com/random-guy7700/iptv/refs/heads/main/movies_m3u8_qualities/FamilyStrokes%20%E2%80%93%20Aaliyah%20Love%2C%20Penny%20Barber%2C%20Coco%20Lovelock%20And%20Theodora%20Day%20%E2%80%93%20Masquerade%20A%20Deep%20Analysis%20Extended%20Cut_480p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1724873,RESOLUTION=1280x720,CLOSED-CAPTIONS=NONE
+https://raw.githubusercontent.com/random-guy7700/iptv/refs/heads/main/movies_m3u8_qualities/FamilyStrokes%20%E2%80%93%20Aaliyah%20Love%2C%20Penny%20Barber%2C%20Coco%20Lovelock%20And%20Theodora%20Day%20%E2%80%93%20Masquerade%20A%20Deep%20Analysis%20Extended%20Cut_720p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3589766,RESOLUTION=1920x1080,CLOSED-CAPTIONS=NONE
+https://raw.githubusercontent.com/random-guy7700/iptv/refs/heads/main/movies_m3u8_qualities/FamilyStrokes%20%E2%80%93%20Aaliyah%20Love%2C%20Penny%20Barber%2C%20Coco%20Lovelock%20And%20Theodora%20Day%20%E2%80%93%20Masquerade%20A%20Deep%20Analysis%20Extended%20Cut_1080p.m3u8
