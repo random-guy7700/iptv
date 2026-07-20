@@ -1,0 +1,78 @@
+# UI Redesign Specification: "Glass Studio" (Apple / macOS Translucent Style)
+
+## Objective
+Redesign the provided media player and telemetry interface using an Apple/macOS-inspired "Glass Studio" aesthetic (frosted glass, dark translucency, soft depth, refined typography). 
+
+CRITICAL REQUIREMENT: Maintain 100% feature parity with the original interface. Do NOT alter, omit, or rename any functional controls, telemetry fields, settings options, or navigation links.
+
+---
+
+## 1. Visual Design System & Styling Tokens
+
+- **Background Base:** Deep slate/navy background (`#0B0E14` or `hsl(222, 47%, 6%)`).
+- **Glass Surfaces:**
+  - `background`: `rgba(255, 255, 255, 0.04)` over dark containers.
+  - `backdrop-filter`: `blur(16px) saturate(180%)`.
+  - `border`: `1px solid rgba(255, 255, 255, 0.08)`.
+  - `box-shadow`: `0 20px 40px -15px rgba(0, 0, 0, 0.5)`.
+- **Corner Radii:**
+  - Main Cards/Containers: `16px` (`rounded-2xl`).
+  - Inputs / Dropdowns / Badges: `10px` (`rounded-xl`).
+- **Typography & Colors:**
+  - Font Family: System UI stack (`-apple-system`, `BlinkMacSystemFont`, `Inter`, sans-serif).
+  - Primary Text: `rgba(255, 255, 255, 0.92)`.
+  - Secondary / Muted Text: `rgba(255, 255, 255, 0.55)`.
+  - Accent Color: Muted Emerald / Soft Cyan (`#10B981` or `#06B6D4`) with `rgba` background glow for active/status states.
+
+---
+
+## 2. Feature & Layout Preservation (Strict 1:1 Mapping)
+
+Ensure the layout retains the existing two-column dashboard structure below the main video container:
+
+### A. Header Navigation
+- **Elements:**
+  - Main Header: `Playback Error`
+  - Breadcrumb / Sub-text: `← Library • Missing URL parameter.`
+- **Glass Studio Style:** Crisp typography with subtle letter-spacing. The back arrow and breadcrumbs should feature soft hover fade-in effects.
+
+### B. Main Video Player Viewport
+- **Elements:**
+  - Large central aspect-ratio container (currently displaying the idle/error state).
+- **Glass Studio Style:** 
+  - Outer border: `1px solid rgba(255, 255, 255, 0.08)` with rounded `16px` corners.
+  - Inner fill: Very subtle radial gradient from dark charcoal to rich black (`#12161F` to `#080A0E`).
+  - Overlay state: If an error or missing parameter is shown, display a sleek centered glass pill badge containing the error text.
+
+### C. Swarm Telemetry Panel (Bottom Left)
+- **Section Title:** `SWARM TELEMETRY` (Uppercase, micro-size `11px`, tracking-wider, muted white).
+- **Metrics Row:**
+  - Timestamp on Left: `00:00 / 00:00`
+  - Buffer metric on Right: `Buffer Ahead: 0s`
+- **Progress Bar:** Sleek horizontal line indicator (`height: 3px`, rounded fill) separating metrics and status.
+- **Status Badge:**
+  - Text: `Active Swarm: Idle`
+  - Icon: Leading status dot (`●`).
+  - Glass Styling: Soft translucent pill (`rgba(255, 255, 255, 0.05)`) with a gentle emerald/cyan status indicator glow.
+
+### D. Interface & Settings Panel (Bottom Right)
+- **Section Title:** `INTERFACE & SETTINGS` (Uppercase, micro-size `11px`, tracking-wider, muted white).
+- **Control Inputs (Vertical Stack):**
+  1. **Skin Selector Button/Dropdown:**
+     - Label/Value: `Active VJS 10 Skin: Default`
+     - Icon: Moon / Night Mode Icon (`🌙`) on right alignment.
+     - Glass Styling: Highlighted surface panel with subtle highlight ring.
+  2. **Worker Selector Dropdown:**
+     - Label/Value: `16 Workers (Recommended)`
+     - Icon: Chevron Down (`∨`).
+  3. **Buffer Selector Dropdown:**
+     - Label/Value: `20 Min Buffer`
+     - Icon: Chevron Down (`∨`).
+
+---
+
+## 3. Micro-Interactions & Focus States
+
+- **Hover States:** Inputs and interactive cards transition `background-color` to `rgba(255, 255, 255, 0.08)` and increase border brightness (`rgba(255, 255, 255, 0.18)`).
+- **Transitions:** Smooth CSS transitions on all state changes (`all 0.2s cubic-bezier(0.16, 1, 0.3, 1)`).
+- **Focus Rings:** Soft semi-transparent accent ring (`0 0 0 3px rgba(6, 182, 212, 0.25)`).
