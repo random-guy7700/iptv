@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+## Written by https://t.me/inside83 2021 - 2025 ##
+#EXT-X-STREAM-INF:BANDWIDTH=553230,RESOLUTION=854x480,CLOSED-CAPTIONS=NONE
+https://raw.githubusercontent.com/random-guy7700/iptv/refs/heads/main/movies_m3u8_qualities/TurningTwistys%20%E2%80%93%20Ivy%20Lebelle%20And%20Sidra%20Sage%20%E2%80%93%20Self%20Discovering_480p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1074054,RESOLUTION=1280x720,CLOSED-CAPTIONS=NONE
+https://raw.githubusercontent.com/random-guy7700/iptv/refs/heads/main/movies_m3u8_qualities/TurningTwistys%20%E2%80%93%20Ivy%20Lebelle%20And%20Sidra%20Sage%20%E2%80%93%20Self%20Discovering_720p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2306605,RESOLUTION=1920x1080,CLOSED-CAPTIONS=NONE
+https://raw.githubusercontent.com/random-guy7700/iptv/refs/heads/main/movies_m3u8_qualities/TurningTwistys%20%E2%80%93%20Ivy%20Lebelle%20And%20Sidra%20Sage%20%E2%80%93%20Self%20Discovering_1080p.m3u8
